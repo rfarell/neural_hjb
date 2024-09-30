@@ -1,7 +1,5 @@
 # Neural HJB: Neural Network Solutions for Hamilton-Jacobi-Bellman Equations
 
-![Neural HJB Logo](https://github.com/yourusername/neural_hjb/blob/main/assets/logo.png?raw=true)
-
 **Neural HJB** is a comprehensive repository designed to leverage neural networks for solving Hamilton-Jacobi-Bellman (HJB) equations in optimal control problems. This project encompasses two primary applications:
 
 1. **2D Motion Control**
